@@ -1,0 +1,27 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Gruvbox Material",
+  "theme": {
+    "images": {},
+    "properties": {},
+    "colors": {
+      "toolbar": "rgb(69, 64, 61)",
+      "toolbar_text": "rgb(221, 199, 161)",
+      "frame": "rgb(41, 40, 40)",
+      "tab_background_text": "rgb(221, 199, 161)",
+      "toolbar_field": "rgb(41, 40, 40)",
+      "toolbar_field_text": "rgb(221, 199, 161)",
+      "tab_line": "rgb(125, 174, 163)",
+      "popup": "rgb(41, 40, 40)",
+      "popup_text": "rgb(221, 199, 161)",
+      "icons_attention": "rgb(216, 166, 87)",
+      "popup_border": "rgb(169, 182, 101)",
+      "popup_highlight": "rgb(169, 182, 101)",
+      "toolbar_field_border_focus": "rgb(169, 182, 101)",
+      "toolbar_field_highlight_text": "rgb(41, 40, 40)",
+      "toolbar_field_highlight": "rgb(125, 174, 163)",
+      "tab_loading": "rgb(125, 174, 163)"
+    }
+  }
+}
